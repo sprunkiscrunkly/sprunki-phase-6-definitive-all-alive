@@ -1,6 +1,6 @@
 # Sprunki Phase 6 Definitive All Alive: The Ultimate Tactical Experience
 
-![Sprunki Phase 6 Definitive All Alive Gameplay](https://raw.githubusercontent.com/sprunkiscrunkly/sprunki-phase-6-definitive-all-alive/refs/heads/main/sprunki-phase-6-definitive-all-alive.jpg "Immerse yourself in Sprunki Phase 6 Definitive All Alive")
+![Sprunki Phase 6 Definitive All Alive Gameplay](https://raw.githubusercontent.com/sprunkiscrunkly/sprunki-phase-6-definitive-all-alive/refs/heads/main/sprunki-phase-6-definitive-all-alive.png "Immerse yourself in Sprunki Phase 6 Definitive All Alive")
 
 🔴 LIVE NOW: [Play Sprunki Phase 6 Definitive All Alive (Official Version)](https://sprunksters.com/sprunki-phase-6-definitive-all-alive/ "Primary Game Portal")
 
